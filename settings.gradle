@@ -1,0 +1,2 @@
+rootProject.name='vern2'
+include ':app'
